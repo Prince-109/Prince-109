@@ -60,12 +60,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prince-109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-109&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prince-109&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-109&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-109&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Prince-109&theme=radical&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-109&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
@@ -73,7 +77,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince-109&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince-109&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
@@ -81,18 +85,8 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🩺 **MediScan AI** | AI-powered health diagnostics — skin classification, voice transcription, RAG symptom analysis | FastAPI · PyTorch · Whisper · LangChain · FAISS · Flutter |
-| 📈 **InsightForge** | Automated data-analysis platform — rated 9.1/10 by 709 judges at Tech Expo 2026 | React · Flask |
-| 💧 **Water Auditor Toolkit** | International collaborative research project (Global Discovery Program 2026) | Python |
 
 ---
 
