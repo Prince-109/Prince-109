@@ -77,7 +77,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince-109&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=Prince-109&theme=radical&no-frame=true&row=1&column=7&margin-w=8](https://github.com/users/Prince-109/achievements/quickdraw)" />
+  <img src="[[https://github-profile-trophy.vercel.app/?username=Prince-109&theme=radical&no-frame=true&row=1&column=7&margin-w=8](https://github.com/users/Prince-109/achievements/quickdraw)](https://github.com/users/Prince-109/achievements/pull-shark)" />
 </p>
 
 ---
