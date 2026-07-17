@@ -75,12 +75,19 @@
 ---
 
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/users/Prince-109/achievements/quickdraw">⚡ Quickdraw</a> •
-  <a href="https://github.com/users/Prince-109/achievements/pull-shark">🦈 Pull Shark</a>
+  <a href="https://github.com/users/Prince-109/achievements/quickdraw">
+    <img src="assets/quickdraw.png" width="170" alt="Quickdraw"/>
+  </a>
+
+  <a href="https://github.com/users/Prince-109/achievements/pull-shark">
+    <img src="assets/pull-shark.png" width="170" alt="Pull Shark"/>
+  </a>
 </p>
+
+
 ---
 
 ### ✍️ Random Dev Quote
