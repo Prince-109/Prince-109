@@ -74,16 +74,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/Prince-109">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prince-109&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-  </a>
+  <a href="https://github.com/users/Prince-109/achievements/quickdraw">⚡ Quickdraw</a> •
+  <a href="https://github.com/users/Prince-109/achievements/pull-shark">🦈 Pull Shark</a>
 </p>
-
 ---
 
 ### ✍️ Random Dev Quote
